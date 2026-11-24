@@ -1,0 +1,19 @@
+2026-11-23T05:34:28.258632+00:00 | Temp=34.2C | Humidity=77% | UNCOMFORTABLE | Temperature and humidity above comfort zone
+2026-11-23T05:34:32.387895+00:00 | Temp=34.0C | Humidity=77% | UNCOMFORTABLE | Temperature and humidity above comfort zone
+2026-11-23T05:34:33.171208+00:00 | Temp=34.0C | Humidity=73% | UNCOMFORTABLE | Temperature above comfort limit
+2026-11-23T05:34:37.480587+00:00 | Temp=20.9C | Humidity=73% | COMFORTABLE | Temperature and humidity within the comfort zone
+2026-11-23T05:34:38.185630+00:00 | Temp=20.9C | Humidity=85% | UNCOMFORTABLE | Humidity above comfort limit
+2026-11-23T05:34:42.349772+00:00 | Temp=27.1C | Humidity=85% | UNCOMFORTABLE | Temperature and humidity above comfort zone
+2026-11-23T05:34:43.213878+00:00 | Temp=27.1C | Humidity=47% | UNCOMFORTABLE | Temperature above comfort limit
+2026-11-23T05:34:47.408102+00:00 | Temp=28.9C | Humidity=47% | UNCOMFORTABLE | Temperature above comfort limit
+2026-11-23T05:34:48.236016+00:00 | Temp=28.9C | Humidity=69% | UNCOMFORTABLE | Temperature above comfort limit
+2026-11-23T05:34:52.355180+00:00 | Temp=18.6C | Humidity=69% | COMFORTABLE | Temperature and humidity within the comfort zone
+2026-11-23T05:34:53.177624+00:00 | Temp=18.6C | Humidity=85% | UNCOMFORTABLE | Humidity above comfort limit
+2026-11-23T05:34:57.353574+00:00 | Temp=18.3C | Humidity=85% | UNCOMFORTABLE | Humidity above comfort limit
+2026-11-23T05:34:58.183548+00:00 | Temp=18.3C | Humidity=66% | COMFORTABLE | Temperature and humidity within the comfort zone
+2026-11-23T05:35:02.366982+00:00 | Temp=33.5C | Humidity=66% | UNCOMFORTABLE | Temperature above comfort limit
+2026-11-23T05:35:03.183659+00:00 | Temp=33.5C | Humidity=86% | UNCOMFORTABLE | Temperature and humidity above comfort zone
+2026-11-23T05:35:07.372197+00:00 | Temp=28.5C | Humidity=86% | UNCOMFORTABLE | Temperature and humidity above comfort zone
+2026-11-23T05:35:08.188738+00:00 | Temp=28.5C | Humidity=67% | UNCOMFORTABLE | Temperature above comfort limit
+2026-11-23T05:35:12.377843+00:00 | Temp=27.1C | Humidity=67% | UNCOMFORTABLE | Temperature above comfort limit
+2026-11-23T05:35:13.200396+00:00 | Temp=27.1C | Humidity=46% | UNCOMFORTABLE | Temperature above comfort limit
